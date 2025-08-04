@@ -8,6 +8,11 @@ Tenzies is a dice game where the goal is to roll until all dice show the same nu
 
 This project demonstrates React hooks (`useState`, `useEffect`, `useRef`), component-driven design, and basic game logic.
 
+## Game Snapshot
+<p align="center">
+    <img width="300" alt="image" src="https://github.com/user-attachments/assets/edef03af-0c22-4d49-84d1-d011fabb6881" />
+</p>
+
 ## Features
 
 - Roll 10 dice with a click
